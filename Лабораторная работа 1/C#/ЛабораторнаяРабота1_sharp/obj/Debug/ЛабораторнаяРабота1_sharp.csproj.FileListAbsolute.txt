@@ -1,0 +1,7 @@
+D:\University\2nd_Year\Courseworks\Алгоритмы и структуры данных\Algorithms-and-data-structures\Лабораторная работа 1\C#\ЛабораторнаяРабота1_sharp\bin\Debug\ЛабораторнаяРабота1_sharp.exe.config
+D:\University\2nd_Year\Courseworks\Алгоритмы и структуры данных\Algorithms-and-data-structures\Лабораторная работа 1\C#\ЛабораторнаяРабота1_sharp\bin\Debug\ЛабораторнаяРабота1_sharp.exe
+D:\University\2nd_Year\Courseworks\Алгоритмы и структуры данных\Algorithms-and-data-structures\Лабораторная работа 1\C#\ЛабораторнаяРабота1_sharp\bin\Debug\ЛабораторнаяРабота1_sharp.pdb
+D:\University\2nd_Year\Courseworks\Алгоритмы и структуры данных\Algorithms-and-data-structures\Лабораторная работа 1\C#\ЛабораторнаяРабота1_sharp\obj\Debug\ЛабораторнаяРабота1_sharp.csproj.AssemblyReference.cache
+D:\University\2nd_Year\Courseworks\Алгоритмы и структуры данных\Algorithms-and-data-structures\Лабораторная работа 1\C#\ЛабораторнаяРабота1_sharp\obj\Debug\ЛабораторнаяРабота1_sharp.csproj.CoreCompileInputs.cache
+D:\University\2nd_Year\Courseworks\Алгоритмы и структуры данных\Algorithms-and-data-structures\Лабораторная работа 1\C#\ЛабораторнаяРабота1_sharp\obj\Debug\ЛабораторнаяРабота1_sharp.exe
+D:\University\2nd_Year\Courseworks\Алгоритмы и структуры данных\Algorithms-and-data-structures\Лабораторная работа 1\C#\ЛабораторнаяРабота1_sharp\obj\Debug\ЛабораторнаяРабота1_sharp.pdb
